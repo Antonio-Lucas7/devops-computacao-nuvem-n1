@@ -86,7 +86,7 @@ O projeto adotará configurações básicas de segurança, incluindo:
 * configuração de firewall quando aplicável;
 * utilização de autenticação adequada para acesso ao servidor.
 
-## 📚 Documentação
+##  Documentação
 
 A documentação será desenvolvida ao longo do projeto e apresentará:
 
@@ -115,3 +115,5 @@ A documentação será desenvolvida ao longo do projeto e apresentará:
 **Atividade:** N1 — Construção do Projeto
 
 **Instituição:** Centro Universitário São Lucas — Afya São Lucas
+
+**Orientador:** Prof. Cláudio Castelo
